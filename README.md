@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yossef Moftah
+- 👀 I’m interested in math, finance, machine learning, Sci-Fi, CP
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me e-mail: yossefmoftah000@gmail.com
