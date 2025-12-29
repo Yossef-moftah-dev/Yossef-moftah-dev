@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python Backend Dev
 - 📫 How to reach me e-mail: yossefmoftah000@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yossef-moftah-dev)](https://github.com/Yossef-moftah-dev/github-readme-stats)
+[![Yossef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yossef-moftah-dev)](https://github.com/anuraghazra/github-readme-stats)
