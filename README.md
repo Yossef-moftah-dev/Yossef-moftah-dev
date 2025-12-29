@@ -4,4 +4,4 @@
 - 📫 How to reach me e-mail: yossefmoftah000@gmail.com
 
 ### 📊 My GitHub Statistics
-https://github-readme-stats-eight-theta.vercel.app/api?username=Yossef-moftah-dev
+[![Yossef's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yossef-moftah-dev&show_icons=true&theme=dracula&cache_buster=1)](https://github.com/anuraghazra/github-readme-stats)
